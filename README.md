@@ -96,9 +96,9 @@ while not done:
 client.close()
 server.close()
 print("Server closed.")
-```
+
 CLIENT.PY:
-```
+
 import socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(("localhost", 9999))
