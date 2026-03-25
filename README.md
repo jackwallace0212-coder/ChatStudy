@@ -114,6 +114,7 @@ while not done:
 client.close()
 ```
 ##output:
+
 <img width="623" height="159" alt="560280418-e71acb3f-0426-40d0-98b8-c6c5d978ac8c" src="https://github.com/user-attachments/assets/1a0862ec-049f-4278-a392-5ff0495f3350" />
 <img width="629" height="116" alt="560280485-7f9efb38-f221-481c-a29c-750dbbd80097" src="https://github.com/user-attachments/assets/5177c5e0-3ebe-47bb-b70a-cd833705e20e" />
 
